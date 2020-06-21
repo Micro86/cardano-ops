@@ -2,6 +2,11 @@
 # evenly split across all IOHK FF relays.
 # Pull-requests against this file will be merged and deployed once a day.
 [
+{
+    operator = "microstakepool";
+    addr = "31.151.55.28";
+    port = 3001;
+  }
   {
     operator = "disassembler";
     addr = "prophet.samleathers.com";

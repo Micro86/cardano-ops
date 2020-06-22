@@ -940,5 +940,11 @@
     port = 7090;
     valency = 2;
   }
+  {
+    operator = "Micro Stake Pool";
+    addr = "31.151.55.28";
+    port = 3001;
+    valency = 2;
+  }
 
 ]
